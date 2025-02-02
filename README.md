@@ -47,7 +47,7 @@ PromptPix: Hello! How can I assist you today?
 User: Generate a sunset over the ocean
 PromptPix: Generating your masterpiece... 🎨
 ```
-![Example Image](https://via.placeholder.com/500x300?text=Generated+Image)
+![Logo](./images/logo.png)
 
 ## 🎯 Future Enhancements
 - 🗣️ **Voice Input & Output** for a more interactive experience.  
@@ -61,9 +61,9 @@ Pull requests are welcome! Feel free to fork the repository and enhance PromptPi
 This project is licensed under the **MIT License**.
 
 ## 🌐 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-📧 [Email](mailto:your.email@example.com)  
-🔗 [GitHub](https://github.com/yourusername)
+💼 [LinkedIn](https://www.linkedin.com/in/nasifsafwan)  
+📧 [Email](mailto:nasifsafwan@gmail.com)  
+🔗 [GitHub](https://github.com/nasifsafwan)
 
 ---
 💡 _"Turning words into art, one prompt at a time."_ 🚀
