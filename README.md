@@ -1,6 +1,6 @@
 # 🌟 PromptPix - The AI Chatbot That Paints Your Imagination 🎨🤖
 
-![PromptPix Banner](https://via.placeholder.com/1000x300?text=PromptPix+-+AI+Chatbot+%2B+Stable+Diffusion)
+![PromptPix Banner](./images/promptpix_banner.png)
 
 ## 🚀 Introduction
 **PromptPix** is an AI-powered chatbot that not only converses dynamically but also generates stunning images using **Stable Diffusion**! Whether you want to chat casually or bring your imagination to life through AI-generated visuals, **PromptPix** is here to amaze you.
